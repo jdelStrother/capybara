@@ -46,3 +46,4 @@ particular feature into Capybara.
 
 [mailing list]: http://groups.google.com/group/ruby-capybara
 [issue]: https://github.com/jnicklas/capybara/issues
+ 
